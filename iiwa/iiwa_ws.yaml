@@ -1,0 +1,30 @@
+repositories:
+  fri_vendor:
+    type: git
+    url: https://github.com/lbr-stack/fri_vendor
+    version: ros2
+  lbr_fri_ros2_stack:
+    type: git
+    url: git@github.com:Vanvitelli-Robotics/lbr_fri_ros2_stack.git
+    version: humble-uclv
+  uclv_realtime_ros2:
+    type: git
+    url: git@github.com:Vanvitelli-Robotics/uclv_realtime_ros2.git
+    version: main
+  uclv_robot_lib:
+    type: git
+    url: git@github.com:Vanvitelli-Robotics/uclv_robot_lib.git
+    version: main
+  uclv_robot_ros:
+    type: git
+    url: git@github.com:Vanvitelli-Robotics/uclv_robot_ros.git
+    version: main
+  uclv_robot_ros_test:
+    type: git
+    url: git@github.com:marcocostanzo/uclv_robot_ros_test.git
+    version: main
+  uclv_traj_lib:
+    type: git
+    url: git@github.com:Vanvitelli-Robotics/uclv_traj_lib.git
+    version: main
+
