@@ -1,0 +1,29 @@
+repositories:
+  lbr_fri:
+    type: git
+    url: https://github.com/Vanvitelli-Robotics/lbr_fri.git
+    version: ament-cmake
+  uclv_iiwa_fri:
+    type: git
+    url: https://github.com/Vanvitelli-Robotics/uclv_iiwa_fri.git
+    version: main
+  uclv_msgs_transform:
+    type: git
+    url: https://github.com/Vanvitelli-Robotics/uclv_msgs_transform.git
+    version: main
+  uclv_realtime_ros2:
+    type: git
+    url: https://github.com/Vanvitelli-Robotics/uclv_realtime_ros2.git
+    version: main
+  uclv_robot_lib:
+    type: git
+    url: https://github.com/Vanvitelli-Robotics/uclv_robot_lib.git
+    version: main
+  uclv_robot_ros:
+    type: git
+    url: https://github.com/Vanvitelli-Robotics/uclv_robot_ros.git
+    version: main
+  uclv_traj_lib:
+    type: git
+    url: https://github.com/Vanvitelli-Robotics/uclv_traj_lib.git
+    version: main
