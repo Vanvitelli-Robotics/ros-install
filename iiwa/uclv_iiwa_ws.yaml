@@ -3,6 +3,10 @@ repositories:
     type: git
     url: git@github.com:Vanvitelli-Robotics/lbr_fri.git
     version: ament-cmake
+  uclv_eigen_ros_conversions:
+    type: git
+    url: git@github.com:Vanvitelli-Robotics/uclv_eigen_ros_conversions.git
+    version: main
   uclv_iiwa_fri:
     type: git
     url: git@github.com:Vanvitelli-Robotics/uclv_iiwa_fri.git
